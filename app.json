@@ -28,7 +28,7 @@
     "plugins": [ [
       "expo-font",
       {
-        "fonts": ["node_modules/@expo-google-fonts/inter/Inter_900Black.ttf"]
+        "fonts": ["https://fonts.google.com/specimen/Open+Sans"]
       }
     ]
     ]
